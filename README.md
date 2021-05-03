@@ -2,7 +2,7 @@
 - 👀 I’m interested in making new programs and making new projects with arduino and raspberry pi also.
 - 🌱 I’m currently learning python and java (a little bit)
 - 💞️ I’m looking to collaborate on some new prjects with microsoft, google, etc.
-- 📫 You can reach me through email ( armandevilk282004@gmail.com ) or you can get in touch with me by my what's app no. (+91 8745951248) or telegram.
+- 📫 You can reach me through email ( armandevilk282004@gmail.com ) or you can get in touch with me by my what's app no. (+91 8745951248) or telegram (Bunny).
 
 <!---
 bunny-k28/bunny-k28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
