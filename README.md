@@ -23,6 +23,7 @@
 [<img align="left" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.bhuLY7-6NbohEKNGJmHqSwHaFy&pid=Api&P=0&w=206&h=161">][VSC]
 [<img align="left" width="50px" src="https://tse1.mm.bing.net/th?id=OIP.z5ADCALC6UcdIShKoHk5xgHaHa&pid=Api&P=0&w=183&h=183">][git]
 [<img align="left" width="50px" src="https://tse1.mm.bing.net/th?id=OIP.YyOMn9wj8tZCEyCPTYGlegHaHa&pid=Api&P=0&w=154&h=154">][git_hub]
+[<img align="left" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.KPeU9JBF3epY-JldnLLeFAHaHa&pid=Api&P=0&w=185&h=185">][openai]
 
 <br>
 <br>
@@ -47,3 +48,4 @@
 [VSC]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [git_hub]: https://www.github.com
+[openai]: https://openai.com/
