@@ -16,11 +16,11 @@
 <br>
 
 ### Languages and Tools:
-[<img align="left" width="50px" src="https://tse4.mm.bing.net/th?id=OIP.Rwc2cqqo2cvBvV_Ev-YpMwHaF7&pid=Api&P=0&w=228&h=182">][python]
+[<img align="left" width="60px" src="https://tse4.mm.bing.net/th?id=OIP.Rwc2cqqo2cvBvV_Ev-YpMwHaF7&pid=Api&P=0&w=228&h=182">][python]
 [<img align="left" width="50px" src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image.png">][cpp]
 [<img align="left" width="50px" src="https://logodix.com/logo/1164643.png">][database]
 [<img align="left" width="50px" src="https://tse4.mm.bing.net/th?id=OIF.gevnE2kp8ZSeeS0n03ZEdA&pid=Api&P=0&w=169&h=169">][sqlite]
-[<img align="left" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.bhuLY7-6NbohEKNGJmHqSwHaFy&pid=Api&P=0&w=206&h=161">][VSC]
+[<img align="left" width="60px" src="https://tse3.mm.bing.net/th?id=OIP.bhuLY7-6NbohEKNGJmHqSwHaFy&pid=Api&P=0&w=206&h=161">][VSC]
 [<img align="left" width="50px" src="https://tse1.mm.bing.net/th?id=OIP.z5ADCALC6UcdIShKoHk5xgHaHa&pid=Api&P=0&w=183&h=183">][git]
 [<img align="left" width="50px" src="https://tse1.mm.bing.net/th?id=OIP.YyOMn9wj8tZCEyCPTYGlegHaHa&pid=Api&P=0&w=154&h=154">][git_hub]
 [<img align="left" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.KPeU9JBF3epY-JldnLLeFAHaHa&pid=Api&P=0&w=185&h=185">][openai]
