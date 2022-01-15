@@ -1,4 +1,4 @@
-### Holla, This is Arman Das 👋
+### Hallo, This is Arman Das 👋
 
 ## I'm a Students and Intermediate programmer
 - 🔭 I’m currently working on my programming skills.
