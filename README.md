@@ -11,8 +11,8 @@
 ### Contact with me:
 [<img align="left" width="40px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/60/e0/77/60e07773-54a8-4e6f-5aee-1f038313690f/source/1000x1000bb.jpg" />][discord_link]
 [<img align="left" width="40px" src="https://tse1.mm.bing.net/th?id=OIP.do2a6i4su4aiiiWLs63zyAHaHa&pid=Api&P=0&w=160&h=160" />][whatsapp_link]
-[<img align="left" width="50px" src="https://tse2.mm.bing.net/th?id=OIP.8IxSTRR_RjmMtUAT7nAT7gHaHa&pid=Api&P=0&w=169&h=169">][lin]
-[<img align="left" width="50px" src="https://tse2.mm.bing.net/th?id=OIP.r-7ZVxFyLhLSc2xx3U3srAHaFj&pid=Api&P=0&w=222&h=167">][gmail]
+[<img align="left" width="40px" src="https://tse2.mm.bing.net/th?id=OIP.8IxSTRR_RjmMtUAT7nAT7gHaHa&pid=Api&P=0&w=169&h=169">][lin]
+[<img align="left" width="40px" src="https://tse2.mm.bing.net/th?id=OIP.r-7ZVxFyLhLSc2xx3U3srAHaFj&pid=Api&P=0&w=222&h=167">][gmail]
 
 <br>
 <br>
