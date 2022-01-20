@@ -1,6 +1,6 @@
 ### Hallo, This is Arman Das 👋
 
-## I'm a Students and Intermediate programmer
+## I'm a Student and Intermediate programmer
 - 🔭 I’m currently working on my programming skills.
 - 🌱 I’m currently learning ML, DBSM (in python) and C, Cpp.
 - 👀 I’m interested in making new python projects and making new projects with arduino and raspberry pi also.
