@@ -1,6 +1,6 @@
 ### Hallo, This is Arman Das 👋
 
-## I'm a Student and Intermediate programmer
+## I'm a Student and Intermediate(++) programmer
 - 🔭 I’m currently working on my skills and on a ML project for Google.
 - 🌱 I’m currently learning DS, DL, DM (in python) and C, Cpp.
 - 👀 I’m interested in making new python projects like discord BOTS, UI(s) and WebDev
