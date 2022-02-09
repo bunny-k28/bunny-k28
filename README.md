@@ -1,9 +1,9 @@
 ### Hallo, This is Arman Das 👋
 
 ## I'm a Student and Intermediate programmer
-- 🔭 I’m currently working on my programming skills.
-- 🌱 I’m currently learning ML, DBSM (in python) and C, Cpp.
-- 👀 I’m interested in making new python projects and making new projects with arduino and raspberry pi also.
+- 🔭 I’m currently working on my skills and on a ML project for Google.
+- 🌱 I’m currently learning DS, DL, DM (in python) and C, Cpp.
+- 👀 I’m interested in making new python projects like discord BOTS, UI(s) and WebDev
 - 👯 I’m looking to collaborate on any project(s) in python.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can't live without programming, travelling and music
