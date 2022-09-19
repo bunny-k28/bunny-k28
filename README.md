@@ -18,7 +18,8 @@
 
 ### Languages and Tools:
 [<img align="left" width="60px" src="https://tse4.mm.bing.net/th?id=OIP.Rwc2cqqo2cvBvV_Ev-YpMwHaF7&pid=Api&P=0&w=228&h=182">][python]
-[<img align="left" width="50px" src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image.png">][cpp]
+[<img align="left" width="50px" src="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg">][flask]
+[<img align="left" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">][html]
 [<img align="left" width="50px" src="https://logodix.com/logo/1164643.png">][database]
 [<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png">][sqlite]
 [<img align="left" width="60px" src="https://tse3.mm.bing.net/th?id=OIP.bhuLY7-6NbohEKNGJmHqSwHaFy&pid=Api&P=0&w=206&h=161">][VSC]
@@ -43,7 +44,8 @@
 [whatsapp_link]: https://wa.link/jennv4
 
 [python]: https://www.python.org
-[cpp]: https://www.mingw-w64.org
+[flask]: https://flask.palletsprojects.com/
+[html]: https://html.com/
 [database]: https://www.oracle.com/in/database/what-is-database/
 [sqlite]: https://www.sqlite.org
 [VSC]: https://code.visualstudio.com/
