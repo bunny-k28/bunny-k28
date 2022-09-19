@@ -2,11 +2,11 @@
 
 ## I'm a Student and Intermediate(++) programmer
 - 🔭 I’m currently working on my WebDev skills and on a website for my college.
-- 🌱 I’m currently learning DS, DL, DM (in python) and C, Cpp.
-- 👀 I’m interested in making new python projects like discord BOTS, UI(s) and WebDev
-- 👯 I’m looking to collaborate on any project(s) in python.
+- 🌱 I’m currently learning DS, DL, DM and WebDev using python and also learning C, Cpp.
+- 👀 I’m interested in making new projects like BOTS, UI(s), Websites, Ml/AI models etc.
+- 👯 I’m looking to collaborate on any python project(s).
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I can't live without programming, travelling and music
+- ⚡ Fun fact: I learned programming and robotics in 7th grade.
 
 ### Contact with me:
 [<img align="left" width="40px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/60/e0/77/60e07773-54a8-4e6f-5aee-1f038313690f/source/1000x1000bb.jpg" />][discord_link]
