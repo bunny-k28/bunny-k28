@@ -1,7 +1,7 @@
 ### Hallo, This is Arman Das 👋
 
 ## I'm a Student and Intermediate(++) programmer
-- 🔭 I’m currently working on my WebDev skills and on a SpeechRecognition model for my college.
+- 🔭 I’m currently working on my WebDev skills and on a [VoiceRecognition model][repo_link] for my college.
 - 🌱 I’m currently learning DS, DL, DM and WebDev using python and also learning C, Cpp.
 - 👀 I’m interested in making new projects like BOTS, UI(s), Websites, Ml/AI models etc.
 - 👯 I’m looking to collaborate on any python project(s).
@@ -53,3 +53,4 @@
 [git_hub]: https://www.github.com
 [openai]: https://openai.com/
 [lin]: https://www.linkedin.com/in/arman-das-359b57210
+[repo_link]: https://github.com/bunny-k28/VoiceRecognition
