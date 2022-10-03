@@ -1,7 +1,7 @@
 ### Hallo, This is Arman Das 👋
 
 ## I'm a Student and Intermediate(++) programmer
-- 🔭 I’m currently working on my WebDev skills and on a website for my college.
+- 🔭 I’m currently working on my WebDev skills and on a SpeechRecognition model for my college.
 - 🌱 I’m currently learning DS, DL, DM and WebDev using python and also learning C, Cpp.
 - 👀 I’m interested in making new projects like BOTS, UI(s), Websites, Ml/AI models etc.
 - 👯 I’m looking to collaborate on any python project(s).
