@@ -1,12 +1,12 @@
 ### Hallo, This is Arman Das 👋
 
-## I'm a Student and Intermediate(++) programmer
-- 🔭 I’m currently working on my WebDev skills and on a [VoiceRecognition model][repo_link] for my college and also on a and a Ecom website.
-- 🌱 I’m currently learning DS, DL, DM and WebDev using python and also learning C, Cpp.
-- 👀 I’m interested in making new projects like BOTS, UI(s), Websites, Ml/AI models etc.
-- 👯 I’m looking to collaborate on any python project(s).
+## I'm a Student and Backend Developer.
+- 🔭 I’m currently working on a Ecom website.
+- 🌱 I’m currently learning ML, DL, DBMS and WebDev using python.
+- 👀 I’m interested in making new projects like BOTS, UI(s), Websites, Ml/AI models etc with python.
+- 👯 I’m looking to collaborate on any python project(s) with python.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I learned programming and robotics in 7th grade.
+- ⚡ Fun fact: There's no Fun fact.
 
 ### Contact with me:
 [<img align="left" width="40px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/60/e0/77/60e07773-54a8-4e6f-5aee-1f038313690f/source/1000x1000bb.jpg" />][discord_link]
