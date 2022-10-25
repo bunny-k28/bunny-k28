@@ -9,10 +9,10 @@
 - 🤝 I’m looking for help with **Django and MongoDB**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bunny-k28?tab=repositories)
 - 💬 Ask me about **Python problems**
+- 📫 How to reach me **armandevilk282004@gmail.com**
 - ⚡ Fun fact **Cats are more adorable**
 
 <h3 align="left">Contact with me:</h3>
-<a href="armandevilk282004@gmail.com" target="blank"><img align="center" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></a>
 <a href="https://wa.link/jennv4" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504957.png" /></a>
 <a href="https://www.linkedin.com/in/arman-das-359b57210" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
 <br>
