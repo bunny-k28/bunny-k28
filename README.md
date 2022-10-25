@@ -1,56 +1,38 @@
-### Hallo, This is Arman Das 👋
+<h1 align="center">Hi 👋, I'm Arman Das</h1>
+<h3 align="center">A passionate backend developer</h3>
 
-## I'm a Student and Backend Developer.
-- 🔭 I’m currently working on a Ecom website.
-- 🌱 I’m currently learning ML, DL, DBMS and WebDev using python.
-- 👀 I’m interested in making new projects like BOTS, UI(s), Websites, Ml/AI models etc with python.
-- 👯 I’m looking to collaborate on any python project(s) with python.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: There's no Fun fact.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bunny-k28&label=Profile%20views&color=0e75b6&style=flat" alt="bunny-k28" /> </p>
 
-### Contact with me:
-[<img align="left" width="40px" src="https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/60/e0/77/60e07773-54a8-4e6f-5aee-1f038313690f/source/1000x1000bb.jpg" />][discord_link]
-[<img align="left" width="40px" src="https://tse1.mm.bing.net/th?id=OIP.do2a6i4su4aiiiWLs63zyAHaHa&pid=Api&P=0&w=160&h=160" />][whatsapp_link]
-[<img align="left" width="40px" src="https://tse2.mm.bing.net/th?id=OIP.8IxSTRR_RjmMtUAT7nAT7gHaHa&pid=Api&P=0&w=169&h=169" />][lin]
+- 🔭 I’m currently working on [Discord Bot ~ Albus](https://github.com/bunny-k28/Albus)
+- 🌱 I’m currently learning **ML, DBMS, APIs and WebDev using python**
+- 👯 I’m looking to collaborate on a [E-com Website](https://github.com/bunny-k28/MyDrugs.com)
+- 🤝 I’m looking for help with **Django and MongoDB**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bunny-k28?tab=repositories)
+- 💬 Ask me about **Python problems**
+- ⚡ Fun fact **Cats are more adorable**
 
-<br>
-<br>
-
-### Languages and Tools:
-[<img align="left" width="60px" src="https://tse4.mm.bing.net/th?id=OIP.Rwc2cqqo2cvBvV_Ev-YpMwHaF7&pid=Api&P=0&w=228&h=182">][python]
-[<img align="left" width="50px" src="https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg">][flask]
-[<img align="left" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png">][html]
-[<img align="left" width="50px" src="https://logodix.com/logo/1164643.png">][database]
-[<img align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png">][sqlite]
-[<img align="left" width="60px" src="https://tse3.mm.bing.net/th?id=OIP.bhuLY7-6NbohEKNGJmHqSwHaFy&pid=Api&P=0&w=206&h=161">][VSC]
-[<img align="left" width="50px" src="https://tse1.mm.bing.net/th?id=OIP.z5ADCALC6UcdIShKoHk5xgHaHa&pid=Api&P=0&w=183&h=183">][git]
-[<img align="left" width="50px" src="https://tse1.mm.bing.net/th?id=OIP.YyOMn9wj8tZCEyCPTYGlegHaHa&pid=Api&P=0&w=154&h=154">][git_hub]
-[<img align="left" width="50px" src="https://tse3.mm.bing.net/th?id=OIP.KPeU9JBF3epY-JldnLLeFAHaHa&pid=Api&P=0&w=185&h=185">][openai]
-
-<br>
-<br>
-<br>
+<h3 align="left">Contact with me:</h3>
+<a href="armandevilk282004@gmail.com" target="blank"><img align="center" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></a>
+<a href="https://wa.link/jennv4" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504957.png" /></a>
+<a href="https://www.linkedin.com/in/arman-das-359b57210" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bunny-k28&&show_icons=true&title_color=ffffff&icon_color=0FE4F7&text_color=daf7dc&bg_color=191919&hide_border=true">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/@bunnyk28" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@bunnyk28" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20323776" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20323776" height="30" width="40" /></a>
+<a href="https://kaggle.com/bunnynextgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bunnynextgen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@armandevilk28201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@armandevilk28201" height="30" width="40" /></a>
+<a href="https://discord.gg/rbN23Fhxa8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rbN23Fhxa8" height="40" width="40" /></a>
+</p>
 
-<!-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<!-- jump links -->
-[discord_link]: https://discord.com/channels/@me/709053531910438982
-[whatsapp_link]: https://wa.link/jennv4
+<br>
+<h3 align="left">My Cards:</h3>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunny-k28&show_icons=true&locale=en&layout=compact&theme=dark" alt="bunny-k28" ></p>
 
-[python]: https://www.python.org
-[flask]: https://flask.palletsprojects.com/
-[html]: https://html.com/
-[database]: https://www.oracle.com/in/database/what-is-database/
-[sqlite]: https://www.sqlite.org
-[VSC]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[git_hub]: https://www.github.com
-[openai]: https://openai.com/
-[lin]: https://www.linkedin.com/in/arman-das-359b57210
-[repo_link]: https://github.com/bunny-k28/VoiceRecognition
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=bunny-k28&show_icons=true&locale=en&theme=gotham&icon_color='0fe8f1'&hide_border=false&hide=prs,contribs&layout=compact" alt="bunny-k28" /></p>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunny-k28&theme=dark" alt="bunny-k28" /></p>
