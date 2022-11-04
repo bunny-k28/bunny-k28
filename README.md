@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunny-k28&label=Profile%20views&color=0e75b6&style=flat" alt="bunny-k28" /> </p>
 
-- 🔭 I’m currently working on [Discord Bot ~ Albus](https://github.com/bunny-k28/Albus)
+- 🔭 I’m currently working on a [E-com website](https://github.com/bunny-k28/MyDrugs.com)
 - 🌱 I’m currently learning **ML, DBMS, APIs and WebDev using python**
 - 👯 I’m looking to collaborate on a [E-com Website](https://github.com/bunny-k28/MyDrugs.com)
 - 🤝 I’m looking for help with **Django and MongoDB**
