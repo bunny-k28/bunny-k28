@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a [E-com website](https://github.com/bunny-k28/MyDrugs.com)
 - 🌱 I’m currently learning **ML, DBMS, APIs and WebDev using python**
-- 👯 I’m looking to collaborate on a [E-com Website](https://github.com/bunny-k28/MyDrugs.com)
+- 👯 I’m looking for collaboraters for my [E-com Website](https://github.com/bunny-k28/MyDrugs.com)
 - 🤝 I’m looking for help with **Django and MongoDB**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bunny-k28?tab=repositories)
 - 💬 Ask me about **Python problems**
