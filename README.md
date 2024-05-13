@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bunny-k28&label=Profile%20views&color=0e75b6&style=flat" alt="bunny-k28" /> </p>
 
-- 🔭 I’m currently working on a [College/School Canteen Counter System](https://github.com/bunny-k28/CanteenFastCard)
-- 🌱 I’m currently learning and practicing **DBMS, APIs and WebDev**
-- 👯 I’m looking for collaboraters for my [E-com Website](https://github.com/bunny-k28/MyDrugs.com)
-- 🤝 I’m looking for help with **Django and MongoDB**
+- 🔭 I’m currently working on a [Ebay of Projects](https://github.com/bunny-k28/POBucket)
+- 🌱 I’m currently learning and practicing **DBMS, DSA, APIs and WebDev**
+- 👯 I’m looking for collaboraters for my [E-com Website](https://github.com/bunny-k28/POBucket)
+- 🤝 I’m looking for help with **MongoDB**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bunny-k28?tab=repositories)
 - 💬 Ask me about **Python problems**
 - 📫 How to reach me **armandevilk282004@gmail.com** or **lostbunny0229@icloud.com**
