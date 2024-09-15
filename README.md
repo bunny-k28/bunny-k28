@@ -37,3 +37,5 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=bunny-k28&show_icons=true&locale=en&theme=gotham&icon_color='0fe8f1'&hide_border=false&hide=prs,contribs&layout=compact" alt="bunny-k28" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunny-k28&theme=dark" alt="bunny-k28" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/65f3f9f5b98001268769c01e?variant=dark)](https://roadmap.sh)
