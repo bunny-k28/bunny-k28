@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [POBucket App](https://github.com/bunny-k28/POBucket)
 - 🌱 I’m currently learning and practicing **WebDev, Flutter framework, DSA**
-- 👯 I’m looking for collaboraters for my [E-com Website](https://github.com/bunny-k28/POBucket)
+- 👯 I’m looking for collaboraters for my E-com Websites [MyDrugs.tm](https://github.com/bunny-k28/MyDrugs.tm) & [POBucket](https://github.com/bunny-k28/POBucket)
 - 🤝 I’m looking for help with **MongoDB**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/bunny-k28?tab=repositories)
 - 💬 Ask me about **Python problems**
