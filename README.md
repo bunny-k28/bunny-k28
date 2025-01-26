@@ -16,6 +16,7 @@
 <a href="https://wa.link/jennv4" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504957.png" /></a>
 <a href="https://www.linkedin.com/in/arman-das-359b57210" target="blank"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a>
 <a href="https://discord.com/users/Sleeping💤Panda🐼#8142"><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png"/></a>
+<a href="https://www.instagram.com/a.r.m.a.n_d.a.s?igsh=MWFkZmdoenU0M25yYg=="><img align="center" width="40" src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png"/></a>
 <br>
 
 <h3 align="left">Connect with me:</h3>
