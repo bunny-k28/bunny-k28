@@ -36,8 +36,8 @@
 
 # 📊 Github Stats:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman29-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="arman29-dev" ></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=bunny-k28&show_icons=true&locale=en&theme=gotham&icon_color='0fe8f1'&hide_border=false&hide=prs,contribs&layout=compact" alt="bunny-k28" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bunny-k28&theme=dark" alt="bunny-k28" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=bunny-k28&show_icons=true&locale=en&theme=gotham&icon_color='0fe8f1'&hide_border=false&hide=prs,contribs&layout=compact" alt="arman29-dev" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arman29-dev&theme=dark" alt="arman29-dev" /></p>
 <br>
 
 ## 👨🏻‍💻 Roadmap Stats:
